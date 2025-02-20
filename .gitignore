@@ -1,7 +1,8 @@
 #env files
 .env
 .env.local
-package-lock.json
 /node_modules
-pm2.js
+node_modules
 nodemon.json
+package-lock.json
+pm2.json
